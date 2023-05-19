@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap');
+
+*{
+    background-color: black;
+}
+
+.card{
+    background-image: url(./IMG/WhatsApp\ Image\ 2023-05-19\ at\ 09.14.23.jpeg);
+    width: 150vw;
+    height: 300vh;
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    position: absolute;
+    text-align: center;
+}
+
+
